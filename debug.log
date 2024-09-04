@@ -1,0 +1,44 @@
+SELECT * FROM laptops
+[]
+SELECT * FROM laptops
+[]
+SELECT * FROM laptops
+[]
+SELECT * FROM laptops WHERE CAST(REPLACE(Price, ',', '') AS UNSIGNED) BETWEEN :minPrice AND :maxPrice
+{"minPrice":40000,"maxPrice":60000}
+SELECT * FROM laptops WHERE CAST(REPLACE(Price, ',', '') AS UNSIGNED) BETWEEN :minPrice AND :maxPrice
+{"minPrice":20000,"maxPrice":40000}
+SELECT * FROM laptops WHERE CAST(REPLACE(Price, ',', '') AS UNSIGNED) BETWEEN :minPrice AND :maxPrice AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) BETWEEN 14 AND 15.9
+{"minPrice":20000,"maxPrice":40000}
+SELECT * FROM laptops WHERE CAST(REPLACE(Price, ',', '') AS UNSIGNED) BETWEEN :minPrice AND :maxPrice AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) < 14
+{"minPrice":20000,"maxPrice":40000}
+SELECT * FROM laptops WHERE CAST(REPLACE(Price, ',', '') AS UNSIGNED) BETWEEN :minPrice AND :maxPrice AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) < 14
+{"minPrice":20000,"maxPrice":40000}
+SELECT * FROM laptops WHERE CAST(REPLACE(Price, ',', '') AS UNSIGNED) BETWEEN :minPrice AND :maxPrice AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) < 14
+{"minPrice":20000,"maxPrice":40000}
+SELECT * FROM laptops WHERE CAST(REPLACE(Price, ',', '') AS UNSIGNED) BETWEEN :minPrice AND :maxPrice AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) < 14
+{"minPrice":20000,"maxPrice":40000}
+SELECT * FROM laptops WHERE GPU LIKE :gpuBrand
+{"gpuBrand":"%Intel%"}
+SELECT * FROM laptops WHERE GPU LIKE :gpuBrand
+{"gpuBrand":"%Nvidia%"}
+SELECT * FROM laptops WHERE OS LIKE :os AND GPU LIKE :gpuBrand
+{"os":"%macOS Sonoma%","gpuBrand":"%Nvidia%"}
+SELECT * FROM laptops WHERE OS LIKE :os
+{"os":"%macOS Sonoma%"}
+SELECT * FROM laptops WHERE Cores LIKE :cores AND OS LIKE :os
+{"cores":"%8%","os":"%macOS Sonoma%"}
+SELECT * FROM laptops WHERE OS LIKE :os AND (RAM IS NOT NULL AND RAM != '' AND RAM_Type IS NOT NULL AND RAM_Type != '' AND Storage IS NOT NULL AND Storage != '' AND Processor IS NOT NULL AND Processor != '' AND Cores IS NOT NULL AND Cores != '' AND OS IS NOT NULL AND OS != '' AND GPU IS NOT NULL AND GPU != '' AND Price IS NOT NULL AND Price != '' AND Screen_Size IS NOT NULL AND Screen_Size != '' AND Touchscreen IS NOT NULL AND Touchscreen != '' AND Chipset IS NOT NULL AND Chipset != '' AND RAM_Layout IS NOT NULL AND RAM_Layout != '' AND RAM_Speed IS NOT NULL AND RAM_Speed != '' AND Storage_Type IS NOT NULL AND Storage_Type != '' AND GPU_Memory IS NOT NULL AND GPU_Memory != '' AND Ports IS NOT NULL AND Ports != '')
+{"os":"%macOS Sonoma%"}
+SELECT * FROM laptops WHERE Screen_Size LIKE :screenSize AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) < 14 AND (RAM IS NOT NULL AND RAM != '' AND RAM_Type IS NOT NULL AND RAM_Type != '' AND Storage IS NOT NULL AND Storage != '' AND Processor IS NOT NULL AND Processor != '' AND Cores IS NOT NULL AND Cores != '' AND OS IS NOT NULL AND OS != '' AND GPU IS NOT NULL AND GPU != '' AND Price IS NOT NULL AND Price != '' AND Screen_Size IS NOT NULL AND Screen_Size != '' AND Touchscreen IS NOT NULL AND Touchscreen != '' AND Chipset IS NOT NULL AND Chipset != '' AND RAM_Layout IS NOT NULL AND RAM_Layout != '' AND RAM_Speed IS NOT NULL AND RAM_Speed != '' AND Storage_Type IS NOT NULL AND Storage_Type != '' AND GPU_Memory IS NOT NULL AND GPU_Memory != '' AND Ports IS NOT NULL AND Ports != '')
+{"screenSize":"%lessThan14%"}
+SELECT * FROM laptops WHERE OS LIKE :os AND (RAM IS NOT NULL AND RAM != '' AND RAM_Type IS NOT NULL AND RAM_Type != '' AND Storage IS NOT NULL AND Storage != '' AND Processor IS NOT NULL AND Processor != '' AND Cores IS NOT NULL AND Cores != '' AND OS IS NOT NULL AND OS != '' AND GPU IS NOT NULL AND GPU != '' AND Price IS NOT NULL AND Price != '' AND Screen_Size IS NOT NULL AND Screen_Size != '' AND Touchscreen IS NOT NULL AND Touchscreen != '' AND Chipset IS NOT NULL AND Chipset != '' AND RAM_Layout IS NOT NULL AND RAM_Layout != '' AND RAM_Speed IS NOT NULL AND RAM_Speed != '' AND Storage_Type IS NOT NULL AND Storage_Type != '' AND GPU_Memory IS NOT NULL AND GPU_Memory != '' AND Ports IS NOT NULL AND Ports != '')
+{"os":"%Windows 11%"}
+SELECT * FROM laptops WHERE Screen_Size LIKE :screenSize AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) < 14 AND (RAM IS NOT NULL AND RAM != '' AND RAM_Type IS NOT NULL AND RAM_Type != '' AND Storage IS NOT NULL AND Storage != '' AND Processor IS NOT NULL AND Processor != '' AND Cores IS NOT NULL AND Cores != '' AND OS IS NOT NULL AND OS != '' AND GPU IS NOT NULL AND GPU != '' AND Price IS NOT NULL AND Price != '' AND Screen_Size IS NOT NULL AND Screen_Size != '' AND Touchscreen IS NOT NULL AND Touchscreen != '' AND Chipset IS NOT NULL AND Chipset != '' AND RAM_Layout IS NOT NULL AND RAM_Layout != '' AND RAM_Speed IS NOT NULL AND RAM_Speed != '' AND Storage_Type IS NOT NULL AND Storage_Type != '' AND GPU_Memory IS NOT NULL AND GPU_Memory != '' AND Ports IS NOT NULL AND Ports != '')
+{"screenSize":"%lessThan14%"}
+SELECT * FROM laptops WHERE Screen_Size LIKE :screenSize AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) < 14 AND (RAM IS NOT NULL AND RAM != '' AND RAM_Type IS NOT NULL AND RAM_Type != '' AND Storage IS NOT NULL AND Storage != '' AND Processor IS NOT NULL AND Processor != '' AND Cores IS NOT NULL AND Cores != '' AND OS IS NOT NULL AND OS != '' AND GPU IS NOT NULL AND GPU != '' AND Price IS NOT NULL AND Price != '' AND Screen_Size IS NOT NULL AND Screen_Size != '' AND Touchscreen IS NOT NULL AND Touchscreen != '' AND Chipset IS NOT NULL AND Chipset != '' AND RAM_Layout IS NOT NULL AND RAM_Layout != '' AND RAM_Speed IS NOT NULL AND RAM_Speed != '' AND Storage_Type IS NOT NULL AND Storage_Type != '' AND Ports IS NOT NULL AND Ports != '')
+{"screenSize":"%lessThan14%"}
+SELECT * FROM laptops WHERE Screen_Size LIKE :screenSize AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) BETWEEN 14 AND 15.9 AND (RAM IS NOT NULL AND RAM != '' AND RAM_Type IS NOT NULL AND RAM_Type != '' AND Storage IS NOT NULL AND Storage != '' AND Processor IS NOT NULL AND Processor != '' AND Cores IS NOT NULL AND Cores != '' AND OS IS NOT NULL AND OS != '' AND GPU IS NOT NULL AND GPU != '' AND Price IS NOT NULL AND Price != '' AND Screen_Size IS NOT NULL AND Screen_Size != '' AND Touchscreen IS NOT NULL AND Touchscreen != '' AND Chipset IS NOT NULL AND Chipset != '' AND RAM_Layout IS NOT NULL AND RAM_Layout != '' AND RAM_Speed IS NOT NULL AND RAM_Speed != '' AND Storage_Type IS NOT NULL AND Storage_Type != '' AND Ports IS NOT NULL AND Ports != '')
+{"screenSize":"%14to15.9%"}
+SELECT * FROM laptops WHERE Screen_Size LIKE :screenSize AND CAST(SUBSTRING_INDEX(Screen_Size, ' ', 1) AS DECIMAL(4,2)) < 14 AND (RAM IS NOT NULL AND RAM != '' AND RAM_Type IS NOT NULL AND RAM_Type != '' AND Storage IS NOT NULL AND Storage != '' AND Processor IS NOT NULL AND Processor != '' AND Cores IS NOT NULL AND Cores != '' AND OS IS NOT NULL AND OS != '' AND GPU IS NOT NULL AND GPU != '' AND Price IS NOT NULL AND Price != '' AND Screen_Size IS NOT NULL AND Screen_Size != '' AND Touchscreen IS NOT NULL AND Touchscreen != '' AND Chipset IS NOT NULL AND Chipset != '' AND RAM_Layout IS NOT NULL AND RAM_Layout != '' AND RAM_Speed IS NOT NULL AND RAM_Speed != '' AND Storage_Type IS NOT NULL AND Storage_Type != '' AND GPU_Memory IS NOT NULL AND GPU_Memory != '' AND Ports IS NOT NULL AND Ports != '')
+{"screenSize":"%lessThan14%"}

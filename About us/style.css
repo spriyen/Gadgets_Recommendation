@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #333;
+    color: #fff;
+    padding: 1em 0;
+    z-index: 1000;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1em;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+    border-radius: 5px;
+}
+
+.auth-buttons {
+    display: flex;
+    gap: 0.5em;
+}
+
+.auth-buttons a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em 1em;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.auth-buttons .login {
+    background-color: transparent;
+}
+
+.auth-buttons .signup {
+    background-color: #ff6600;
+}
+
+.auth-buttons a:hover {
+    background-color: #ff6600;
+    color: #fff;
+}
+
+.auth-buttons .signup:hover {
+    background-color: transparent;
+    color: #ff6600;
+}
+
+.about-hero {
+    position: relative;
+    background: #737373;
+    color: #fff;
+    text-align: center;
+    padding: 6em 0;
+}
+
+.about-hero .hero-content {
+    position: relative;
+    z-index: 2;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+
+.about-hero h1 {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.about-hero p {
+    font-size: 1.2em;
+}
+
+.about-section {
+    background-color: #fff;
+    padding: 4em 0;
+    text-align: center;
+}
+
+.about-content {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2em;
+    justify-content: center;
+}
+
+.card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 2em;
+    max-width: 400px;
+    width: 100%;
+    margin: 1em;
+    text-align: left;
+}
+
+.card h2 {
+    color: #ff6600;
+    margin-bottom: 1em;
+}
+
+.card p {
+    color: #333;
+    line-height: 1.6;
+}
+
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}

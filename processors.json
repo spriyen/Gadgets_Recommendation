@@ -1,0 +1,2774 @@
+[
+    {
+        "processor": "Qualcomm Snapdragon 8s Gen 3 SM8635 (3 nm)"
+    },
+    {
+        "processor": "Qualcomm Snpadragon 6 Gen 1 SM6450 (4 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G99 MT6789 (6 nm)"
+    },
+    {
+        "processor": "Unisoc Tiger T616 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 6 Gen 1 SM6450 (4 nm)"
+    },
+    {
+        "processor": "Kirin 9010 (7 nm)"
+    },
+    {
+        "processor": "Unisoc T616 (12 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 8020 (6 nm)"
+    },
+    {
+        "processor": "Snapdragon 8 Gen 3"
+    },
+    {
+        "processor": ""
+    },
+    {
+        "processor": "Qualcomm Snapdragon 1 Gen 6"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8s Gen 3 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 7 Gen 3 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 4"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 4 SM8650 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 3 SM8650-AB (4 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P35 MT6765 (12 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 7020 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 4 Gen 1 SM4375 (6 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 7200 Pro (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 3 SM8550-AC (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 3"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 2"
+    },
+    {
+        "processor": "Google Tensor G4"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 680 4G SM6225 (6 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 7050 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 SM8650-AB (4 nm)"
+    },
+    {
+        "processor": "MediaTek 7200 SM7435- (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 7s Gen 2 SM7435-AB (4 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 6080 (6 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G99 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 685 SM6225-AD (6 nm)"
+    },
+    {
+        "processor": "QualcommSnapdragon 8 Gen 3 SM8650-AB (4 nm)"
+    },
+    {
+        "processor": "Exynos 1280 (5 nm)"
+    },
+    {
+        "processor": "Mediatek Dimensity 6100+ (6 nm)"
+    },
+    {
+        "processor": "Apple S9"
+    },
+    {
+        "processor": "Exynos 1380 (5 nm)"
+    },
+    {
+        "processor": "Exynos 1480 (5 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 9300 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 SM7550-AB (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 7 Gen 3 SM7550-AB (4 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 9300 MT6989 (4 nm)"
+    },
+    {
+        "processor": "A18 Pro"
+    },
+    {
+        "processor": "A18 Pro (3 nm)"
+    },
+    {
+        "processor": "Mediatek Dimensity 7030 (6 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 9200 (4 nm)"
+    },
+    {
+        "processor": "Apple M2"
+    },
+    {
+        "processor": "Apple M4"
+    },
+    {
+        "processor": "Apple A16 Bionic"
+    },
+    {
+        "processor": "Apple A16 Bionic (5 nm)"
+    },
+    {
+        "processor": "Qualcomm QCM6490 (6 nm)"
+    },
+    {
+        "processor": "MediaTek MT6739 (28 nm)"
+    },
+    {
+        "processor": "Google Tensor G3 (4 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 9000 MT6983 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8+ Gen 1 SM8475 (4 nm)"
+    },
+    {
+        "processor": "Exynos 1380 S5E8835 (5 nm)"
+    },
+    {
+        "processor": "Unisoc Tiger T606 (12 nm)"
+    },
+    {
+        "processor": "RK3562 (24 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 480+ 5G SM4350-AC (8 nm)"
+    },
+    {
+        "processor": "Apple Bionic"
+    },
+    {
+        "processor": "MediaTek Dimensity 930 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 695 5G SM6375 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 SM8550 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 1 SM8450 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon W5 Gen 1 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 SM8550-AC (4 nm)"
+    },
+    {
+        "processor": "Unisoc\u00a0Tiger\u00a0T606 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 7 Gen 1"
+    },
+    {
+        "processor": "Rockchip RK3560"
+    },
+    {
+        "processor": "Rockchip RK3326S (28 nm)"
+    },
+    {
+        "processor": "RK3566 (22 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P35 MT6765"
+    },
+    {
+        "processor": "Exynos W930 (5 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P90 MT6779V (12 nm)"
+    },
+    {
+        "processor": "MediaTek MT8183 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 695 SM6375 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 662 SM6115 (11 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P22 (12 nm) MT6762 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 1 SM8475 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 SM8550-AB (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 7 Gen 1 SM7450-AB (4 nm)"
+    },
+    {
+        "processor": "Google Tensor G3"
+    },
+    {
+        "processor": "Google Tensor G2 (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 7+ Gen 2 SM7475-AB (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8+ Gen 1 4G SM8475 (4 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 1080 MT6877V (6 nm)"
+    },
+    {
+        "processor": "Mediatek Dimensity 930 MT6855 (6 nm)"
+    },
+    {
+        "processor": "Unisoc T606 MT6761V (12 nm)"
+    },
+    {
+        "processor": "Unisoc T606"
+    },
+    {
+        "processor": "MediaTek Helio G35 MT6765G (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G85 MT6769Z (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio A25 MT6762V (12 nm)"
+    },
+    {
+        "processor": "UNISOC SC9863A (28 nm)"
+    },
+    {
+        "processor": "Mediatek Helio A22 MT6761V (12 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 9200 SM8550-MT6985 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 3 SM8650 (4 nm)"
+    },
+    {
+        "processor": "MediaTek Helio A22 MT6761V/W (12 nm)"
+    },
+    {
+        "processor": "Rockchip RK3326S"
+    },
+    {
+        "processor": "Unisoc T606 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 480+ SM4350-AC (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 439"
+    },
+    {
+        "processor": "Qualcomm 215"
+    },
+    {
+        "processor": "MediaTek MT6731"
+    },
+    {
+        "processor": "Mediatek Helio G80 MT6769V/CU (12 nm)"
+    },
+    {
+        "processor": "MediaTek MT6260A"
+    },
+    {
+        "processor": "Mediatek Dimensity 700 MT6833"
+    },
+    {
+        "processor": "MediaTek Helio G35 MT6765G"
+    },
+    {
+        "processor": "MediaTek Helio G96 MT6781"
+    },
+    {
+        "processor": "MediaTek Dimensity 9000+ (4 nm)"
+    },
+    {
+        "processor": "Qualcomm SM8475 Snapdragon 8+ Gen 1 SM8475 (4 nm)"
+    },
+    {
+        "processor": "Mediatek Helio G37 MT6765 (12 nm)"
+    },
+    {
+        "processor": "UNISOC SC9863A1"
+    },
+    {
+        "processor": "UNISOC Tiger T606"
+    },
+    {
+        "processor": "Unisoc SC9863A"
+    },
+    {
+        "processor": "Kirin 990E (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 778G SM7325 (6 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P35 MT6765 (14 nm)"
+    },
+    {
+        "processor": "Kirin 710A (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 778G 4G SM7325 (6 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 810 MT6833P (6 nm)"
+    },
+    {
+        "processor": "12th Gen Intel Core i5 1235U"
+    },
+    {
+        "processor": "Unisoc T610 Tiger T610 (12 nm)"
+    },
+    {
+        "processor": "Apple A14 Bionic"
+    },
+    {
+        "processor": "MediaTek Helio G99 MT8781 (6 nm)"
+    },
+    {
+        "processor": "Exynos 9110 (10 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8+ Gen1 SM8475 (4 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 8100 MT6895Z (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 778G+ SM7325-AE (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 888+ SM8350 (5 nm)"
+    },
+    {
+        "processor": "Snapdragon 888+ SM8350 (5 nm)"
+    },
+    {
+        "processor": "MediTel Helio A22 MT6761V (12 nm)"
+    },
+    {
+        "processor": "Apple S8"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen 2 (4 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 700 MT6781 (7 nm)"
+    },
+    {
+        "processor": "Mediatek Helio G96 MT6781 (12 nm)"
+    },
+    {
+        "processor": "Unisoc T310"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 632 SDM632 (14 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 1050 (8 nm)"
+    },
+    {
+        "processor": "Snapdragon 8+ Gen 1 (4 nm)"
+    },
+    {
+        "processor": "Unisoc Tiger T310 (12 nm)"
+    },
+    {
+        "processor": "Unisoc T610"
+    },
+    {
+        "processor": "MediaTek MTK8768"
+    },
+    {
+        "processor": "Unisoc Tiger T618"
+    },
+    {
+        "processor": "MediaTek MT8788V"
+    },
+    {
+        "processor": "Mediatek Helio P70 MT6771V/CT (12 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P60 MT6771 (12 nm)"
+    },
+    {
+        "processor": "Mediatek Helio A25 MT6762V/WD (12 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P22 MT6762V (12 nm)"
+    },
+    {
+        "processor": "Mediatek helio A22 MT6761V/WE (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P90 MT6779V/CE (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P35 MT6765V/CA (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P70 MT6771V (12 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 800 MT6873"
+    },
+    {
+        "processor": "Dimensity 700 MT6833"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 870 SM8250-AC (7 nm)"
+    },
+    {
+        "processor": "Unisoc T107"
+    },
+    {
+        "processor": "Exynos W920 (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8+ Gen 1 SM8450 (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 778G SM7325"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 695 5G SM6375"
+    },
+    {
+        "processor": "MediaTek Dimensity 8100 SM8250- (5 nm)"
+    },
+    {
+        "processor": "A17 Pro (3 nm)"
+    },
+    {
+        "processor": "A16 Bionic (4 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 480+ 5G SM4350-AC"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 680 4G SM6225"
+    },
+    {
+        "processor": "Exynos 850 (8 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 888 SM8350 (5 nm)"
+    },
+    {
+        "processor": "Tensor (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 695 SM6375"
+    },
+    {
+        "processor": "Mediatek Helio G37 MT6765V (12 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 1300 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 778G 5G SM7325 (6 nm)"
+    },
+    {
+        "processor": "Mediatek Dimensity 8100-Max"
+    },
+    {
+        "processor": "Mediatek Dimensity 9000 (4 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 900 MT6877 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 680 SM6225 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8+ Gen 1 SM8475"
+    },
+    {
+        "processor": "MediaTek Dimensity 920 MT6877T (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 750G 5G SM7225 (8 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 750G SM7225 (8 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 888 SM8450 (5 nm)"
+    },
+    {
+        "processor": "Apple M1 (5 nm)"
+    },
+    {
+        "processor": "\u0415\u044c\u044a\u043d\u043e\u0441 850 (8 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 696 SM6375 (6 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G88 MT6769H (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G96 MediaTek Helio G96 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 480 SM4350 (8 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 700 MT6833V/ZA (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 8 Gen1 SM8450 (4 nm)"
+    },
+    {
+        "processor": "Unisoc Tiger T618 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 665G SM6375 (6 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G96 MT6781 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 888+ SM8350-AC (5 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G37"
+    },
+    {
+        "processor": "Intel Core i5 11th Gen 1135G7 (10 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 810 5G MT6833 (6 nm)"
+    },
+    {
+        "processor": "Unisoc T700"
+    },
+    {
+        "processor": "Apple A15 Bionic (5 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G25 MT6762G (12 nm)"
+    },
+    {
+        "processor": "Unisoc Tiger T610 (12 nm)"
+    },
+    {
+        "processor": "Helio P22T MT8768T"
+    },
+    {
+        "processor": "Apple S7"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 750G SM7225"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 888+ 5G SM8350 (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 860 SM8150-AC (7 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 1200 MT6893 (6 nm)"
+    },
+    {
+        "processor": "Apple A13 Bionic APL1W85 (7 nm)"
+    },
+    {
+        "processor": "MediaTek Dimesnity 900 MT6877 (6 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 765G SM7250-AB (7 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G95 MT6785V/CD (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragonn 870 SM8250-AC (7 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 720 MT6853V/ZA (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 888 4G (5 nm)"
+    },
+    {
+        "processor": "Qualcomm 888 4G (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 870 5G SM8250-AC (7 nm)"
+    },
+    {
+        "processor": "SC9863A (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 660 SDM660 (14 nm)"
+    },
+    {
+        "processor": "Snapdragon 888 (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 665 SM6125 (11 nm)"
+    },
+    {
+        "processor": "Apple 16 Bionic (4 nm)"
+    },
+    {
+        "processor": "Apple 15 Bionic"
+    },
+    {
+        "processor": "Apple A16 Bionic (4 nm)"
+    },
+    {
+        "processor": "Apple 15 Bionic (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 480 5G SM4350 (8 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 700 MT6833V (7 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G80 MT6769T (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 865 SM8250 (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 870 SM8250 (7 nm)"
+    },
+    {
+        "processor": "Kirin 9000E (5 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P22T MT8768T (12 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 800U MT6853 (7 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P60T MT8183 (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P22 MT6762 (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G95 MT6785V (12 nm)"
+    },
+    {
+        "processor": "Mediatek G25 MT6762G (12 nm)"
+    },
+    {
+        "processor": "Mediatek G35 MT6765G (12 nm)"
+    },
+    {
+        "processor": "Unisoc SC7331e (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 732G SM7150 (8 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 720G SM7125 (8 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 780G (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 888 (5 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 765G SM7250 (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 865 SDM865 (7 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 850 S5E3830 (8 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 700 (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 732G SM7150-AC (8 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G95 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 678 (11 nm)"
+    },
+    {
+        "processor": "Kirin 9000 (5 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G35"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 662 (11 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 460 (11 nm)"
+    },
+    {
+        "processor": "Exynos 9825 S5E9825 (7 nm)"
+    },
+    {
+        "processor": "Mediatek MT6739W (28 nm)"
+    },
+    {
+        "processor": "Qualcomm 215 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 690 SM6350 (8 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 1000+"
+    },
+    {
+        "processor": "MediaTek Dimensity 720 MT6853 (7 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P22 MT6762D (12 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P22 MTK6762D (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 765G SM7150-AB (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 460 SM4250-AA (11 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 678 SM6150-AC (11 nm)"
+    },
+    {
+        "processor": "MediaTek Dimensity 800U (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 450 SDM450 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 765G (7 nm)"
+    },
+    {
+        "processor": "Snapdragon 662 SM6115 (11 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 690 5G SM6350 (8 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G25 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 765G SM7225 (8 nm)"
+    },
+    {
+        "processor": "MediaTek MT8766B"
+    },
+    {
+        "processor": "HiSilicon Kirin 9000 (5 nm)"
+    },
+    {
+        "processor": "MediaTek Helio A22 MT6761 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 865 SM8250-AB (7 nm)"
+    },
+    {
+        "processor": "Apple A14 Bionic (5 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 9611 (10 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 9810 (10 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 710A (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 429 SDM429 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 665 SDM6125 (11 nm)"
+    },
+    {
+        "processor": "Apple S6"
+    },
+    {
+        "processor": "Apple S5"
+    },
+    {
+        "processor": "Apple A12 Bionic APL1W81 (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 215 QM215 (28 nm)"
+    },
+    {
+        "processor": "MediaTek Helio A20 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 730 SM7150-AA (8 nm)"
+    },
+    {
+        "processor": "MediaTek MT6739WW"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 765 SM7250-AA (7 nm)"
+    },
+    {
+        "processor": "MediaTek Helio A22 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 865+ SM8250-AB (7 nm)"
+    },
+    {
+        "processor": "Mediatek Helio G90T"
+    },
+    {
+        "processor": "MediaTek Helio G35 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 632 SDM632"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 855 SM8150 (7 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 9110 (10 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 730G SM7150-AA (8 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 865+ SM8250 (7 nm)"
+    },
+    {
+        "processor": "Snapdragon 765G SM7250-AB (7 nm)"
+    },
+    {
+        "processor": "Snapdragon 720G SM7125 (8 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 765G 5G (7 nm)"
+    },
+    {
+        "processor": "Mediatek Helio A25 (12 nm)"
+    },
+    {
+        "processor": "Mediatek Helio P23 MT6763"
+    },
+    {
+        "processor": "Mediatek Helio P22 MT6762R (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G80 (12 nm)"
+    },
+    {
+        "processor": "Kirin 710F (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 439 SDM439 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 855+ SM8150-AC (7 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 820 (7 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 850"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 675 SM6150 (11 nm)"
+    },
+    {
+        "processor": "MediaTek MT8168 (12 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 980 (7 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G85 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 730G SM7150-AB (8 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 710 (12 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7904 (14 nm)"
+    },
+    {
+        "processor": "Snapdragon 665 SM6125 (11 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 980 (8 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P65 MT6768 (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P35 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 210 MSM8909 (28 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 990 5G (7 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 990 (7 nm)"
+    },
+    {
+        "processor": "Qualcomm 215 QM215 (28 nm)"
+    },
+    {
+        "processor": "Apple A12Z Bionic APL1083 (7 nm)"
+    },
+    {
+        "processor": "Exynos 9611 (10 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P90 MT6779 (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P95 (12 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 810 (7 nm)"
+    },
+    {
+        "processor": "Kirin 810 (7 nm)"
+    },
+    {
+        "processor": "MediaTek Helio A20 6761D (12 nm)"
+    },
+    {
+        "processor": "Intel Core i3 1005G1 (10 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 710 SDM710 (10 nm)"
+    },
+    {
+        "processor": "MediaTek MT8321 (28 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 710F (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P70 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon SDM450 (14 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P90 (12 nm)"
+    },
+    {
+        "processor": "Qualcomm 425 MSM8917 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 425 MSM8917 (28 nm)"
+    },
+    {
+        "processor": "MediaTek Helio G90T (12 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P25 MT6757CD (16 nm)"
+    },
+    {
+        "processor": "MediaTek MT8165A (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 210 8909"
+    },
+    {
+        "processor": "Apple A10 Fusion APL1W24 (16 nm)"
+    },
+    {
+        "processor": "Qualcomm 205 Mobile Platform (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 636 SDM636 (14 nm)"
+    },
+    {
+        "processor": "MediaTek MT8167B"
+    },
+    {
+        "processor": "MediaTek MT6763V/V"
+    },
+    {
+        "processor": "Spreadtrum SC9863A (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 855 Plus SM8150-AC (7 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 9610 (10 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7885 (14 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 9609 (10 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 435 MSM8940 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 665 (11 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7884 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 855 (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 675 (11 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P90 MT6779V/CU (12 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 670 SDM670 (10 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 7904 (14 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7884 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 430 MSM8937 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 675 SDM675 (11 nm)"
+    },
+    {
+        "processor": "Exynos 7904 (14 nm)"
+    },
+    {
+        "processor": "MediaTek MT6580 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7904 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 630 SDM630 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 845 SDM845 (10 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 712 SDM712 (10 nm)"
+    },
+    {
+        "processor": "MediaTek MT6750 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7870 (14 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC7731E (28 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC9832E (28 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P23 MT6763T (16 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Quad 7570 (14 nm)"
+    },
+    {
+        "processor": "Apple A12X Bionic APL1083 (7 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 850 SDM850 (10 nm)"
+    },
+    {
+        "processor": "MediaTek Helio A22 MT6762M (12 nm)"
+    },
+    {
+        "processor": "Intel Core-i7 8500Y (14 nm)"
+    },
+    {
+        "processor": "MediaTek MT8765A"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 512 SDM660 (14 nm)"
+    },
+    {
+        "processor": "Intel Core i7 8650U (14 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 659 (16 nm)"
+    },
+    {
+        "processor": "Mediatek MT6739"
+    },
+    {
+        "processor": "Apple S4 (7 nm)"
+    },
+    {
+        "processor": "MediaTek MT6763 (16 nm)"
+    },
+    {
+        "processor": "MediaTek MT6739WM"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 835 MSM8998 (10 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 625 MSM8953 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 821 MSM8996 Pro-AB (14 nm)"
+    },
+    {
+        "processor": "Mediatek MT6737"
+    },
+    {
+        "processor": "HiSilicon Kirin 970 (10 nm)"
+    },
+    {
+        "processor": "MediaTek MT6739WW (28 nm)"
+    },
+    {
+        "processor": "Intel Pentium 4415Y (14 nm)"
+    },
+    {
+        "processor": "MediaTek MT6737M (28 nm)"
+    },
+    {
+        "processor": "MediaTek"
+    },
+    {
+        "processor": "MediaTek MT6737 (28 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC9832A (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6750S (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6580M (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6753 (28 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P18 MT6755S"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 427 MSM8920 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6570 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6737M"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 205 MSM8905 (28 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 960 (16 nm)"
+    },
+    {
+        "processor": "MediaTek MT8735 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6750T (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6737T (28 nm)"
+    },
+    {
+        "processor": "MediaTek Helio X27 MT6797X (20 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 625 8953 (14 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 5 Hexa 7872 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 652 MSM8976 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 5 Octa 7885 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 450 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 430 8937 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT8161"
+    },
+    {
+        "processor": "MediaTek MT8167D"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 425 8917 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 435 8940 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 630 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 210 8909 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 212 8909\u00a0v2 (28 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC9832 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7880 (14 nm)"
+    },
+    {
+        "processor": "Samsung Exynos"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 427 8920 (28 nm)"
+    },
+    {
+        "processor": "MediaTek 6570"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 820 MSM8996 (14 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC9832"
+    },
+    {
+        "processor": "Apple A11 Bionic APL1W72 (10 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 660 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon"
+    },
+    {
+        "processor": "MediaTek Helio P20 MT6757 (16 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P10 MT6755 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6738 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6753V/WA (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6570"
+    },
+    {
+        "processor": "Apple S3"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 652 8976 (28 nm)"
+    },
+    {
+        "processor": "MediaTek Helio X30 MT6799 (10 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 659"
+    },
+    {
+        "processor": "MediaTek MT6580"
+    },
+    {
+        "processor": "Samsung Exynos 8 Octa 8890 (14 nm)"
+    },
+    {
+        "processor": "MediaTek M6737M (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6737T"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 821 MSM8996 Pro (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 617 MSM8952 (28 nm)"
+    },
+    {
+        "processor": "RDA8810"
+    },
+    {
+        "processor": "RDA8810PL"
+    },
+    {
+        "processor": "MediaTek 6737 (28 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC7715"
+    },
+    {
+        "processor": "Spreadtrum SC7731 (28 nm)"
+    },
+    {
+        "processor": "Apple A10X Fusion APL1071 (10 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 626 8953 Pro (14 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC7731"
+    },
+    {
+        "processor": "MediaTek MT8735"
+    },
+    {
+        "processor": "MediaTek MTK6735M"
+    },
+    {
+        "processor": "MediaTek MT6735V/W"
+    },
+    {
+        "processor": "MediaTek MT6735P (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6735 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MTK6737"
+    },
+    {
+        "processor": "Intel Core-i7 (14 nm)"
+    },
+    {
+        "processor": "Intel Core i5 7Y54 (14 nm)"
+    },
+    {
+        "processor": "MediaTek 6573V/W"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 615"
+    },
+    {
+        "processor": "MediaTek 6737"
+    },
+    {
+        "processor": "MediaTek 6735M"
+    },
+    {
+        "processor": "MediaTek Helio P25 MT6757T (16 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 653 8976 Pro (28 nm)"
+    },
+    {
+        "processor": "Apple A9 APL0898 (16 nm)"
+    },
+    {
+        "processor": "MediaTek MT6735"
+    },
+    {
+        "processor": "MediaTek MT6573V/W"
+    },
+    {
+        "processor": "HiSilicon Kirin 658"
+    },
+    {
+        "processor": "Xiaomi Surge S1"
+    },
+    {
+        "processor": "MediaTek MT6750"
+    },
+    {
+        "processor": "MediaTek Helio P20 MT6757"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 820 MSM8996"
+    },
+    {
+        "processor": "Intel Celeron N3350"
+    },
+    {
+        "processor": "MediaTek MT6753"
+    },
+    {
+        "processor": "Intel Core i5 (14 nm)"
+    },
+    {
+        "processor": "Intel Core m3"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 430 8937"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 625 8953"
+    },
+    {
+        "processor": "HiSilicon Kirin 960"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 410 8916"
+    },
+    {
+        "processor": "Spreadtrum SC7731G (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT8163"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 210 8909 v2 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6735P"
+    },
+    {
+        "processor": "HiSilicon Kirin 655"
+    },
+    {
+        "processor": "MediaTek MT6572 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 650 8956"
+    },
+    {
+        "processor": "MediaTek 6580 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 821 MSM8996 Pro-AB"
+    },
+    {
+        "processor": "MediaTek Helio P10 MT6755"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 821 MSM8996 Pro"
+    },
+    {
+        "processor": "Qualcomm"
+    },
+    {
+        "processor": "MediaTek MT6735M"
+    },
+    {
+        "processor": "MediaTek MT8312"
+    },
+    {
+        "processor": "MediaTek MT8735M"
+    },
+    {
+        "processor": "Spreadtrum SC6531DA"
+    },
+    {
+        "processor": "Samsung Exynos 8 Octa 8890"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 8926"
+    },
+    {
+        "processor": "HiSilicon Kirin 655 (16 nm)"
+    },
+    {
+        "processor": "Spreadtrum"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 425 8917"
+    },
+    {
+        "processor": "Apple S2 (16 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 810 MSM8994"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 617 8952 (28 nm)"
+    },
+    {
+        "processor": "MediaTek Helio P15"
+    },
+    {
+        "processor": "MediaTek MT6750 MP2"
+    },
+    {
+        "processor": "Spreadtrum SC9830A (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 653 8976Pro"
+    },
+    {
+        "processor": "MediaTek 6580"
+    },
+    {
+        "processor": "MediaTek MT6595"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 212 8909 v2 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7420 (14 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7580 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 410 MSM8916"
+    },
+    {
+        "processor": "Intel Core i7"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 617 8952"
+    },
+    {
+        "processor": "HiSilicon Kirin 950"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 652 8976"
+    },
+    {
+        "processor": "MediaTek MT8176"
+    },
+    {
+        "processor": "HiSilicon Kirin 955"
+    },
+    {
+        "processor": "MediaTek Helio X25 MT6797T"
+    },
+    {
+        "processor": "MediaTek Helio P10 MT6755M"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 210 MSM8909"
+    },
+    {
+        "processor": "MediaTek MT6592M"
+    },
+    {
+        "processor": "MediaTek Helio X20 MT6797 (20 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC9830A"
+    },
+    {
+        "processor": "HiSilicon Kirin 950 (16 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC9830"
+    },
+    {
+        "processor": "Intel"
+    },
+    {
+        "processor": "HiSilicon Kirin 650 (16 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 650"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 410 8916 (28 nm)"
+    },
+    {
+        "processor": "MediaTek 6735P (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 808 MSM8992"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 415 8929"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 212 8909"
+    },
+    {
+        "processor": "MediaTek MT8783"
+    },
+    {
+        "processor": "MediaTek MT6592 (28 nm)"
+    },
+    {
+        "processor": "Spreadtrum SC7731G"
+    },
+    {
+        "processor": "MediaTek MT6580M"
+    },
+    {
+        "processor": "Spreadtrum SC7731C"
+    },
+    {
+        "processor": "MediaTek MT6276a"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 652 8956"
+    },
+    {
+        "processor": "MediaTek MT6571"
+    },
+    {
+        "processor": "MediaTek Helio X10 MT6795"
+    },
+    {
+        "processor": "Spreadtrum SC9830 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 615 8939"
+    },
+    {
+        "processor": "MediaTek Helio X10 MT6795 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6582"
+    },
+    {
+        "processor": "Qualcomm QSC6185"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 615 8939 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 3 Quad 3475 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm QSC6270"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 616 8939v2"
+    },
+    {
+        "processor": "Apple A9X APL1021 (16 nm)"
+    },
+    {
+        "processor": "Apple A9 APL0898"
+    },
+    {
+        "processor": "Qualcomm QSC6270E"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 820 8996 (14 nm)"
+    },
+    {
+        "processor": "Intel Core M"
+    },
+    {
+        "processor": "Intel Atom x5 Z8350 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 212 8909 v2"
+    },
+    {
+        "processor": "MediaTek MT6572M"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 810"
+    },
+    {
+        "processor": "MediaTek MT6582M"
+    },
+    {
+        "processor": "MediaTek MT6592"
+    },
+    {
+        "processor": "MediaTek MT6572"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 8928"
+    },
+    {
+        "processor": "HiSilicon Kirin 930"
+    },
+    {
+        "processor": "MediaTek MT8127 (28 nm)"
+    },
+    {
+        "processor": "Intel Atom x3 C3230RK (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Quad 7578"
+    },
+    {
+        "processor": "Intel Atom x5 Z850 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 808"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 410 MSM8916 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 210"
+    },
+    {
+        "processor": "Intel Core-i7"
+    },
+    {
+        "processor": "NVIDIA Tegra X1 (20 nm)"
+    },
+    {
+        "processor": "MediaTek MTK6753"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7420"
+    },
+    {
+        "processor": "Apple A9 APL1022"
+    },
+    {
+        "processor": "Apple A8 APL1011 (20 nm)"
+    },
+    {
+        "processor": "MediaTek MT8127"
+    },
+    {
+        "processor": "Samsung Exynos 3475"
+    },
+    {
+        "processor": "Intel Atom x5 Z8500 (14 nm)"
+    },
+    {
+        "processor": "MediaTek MT6752"
+    },
+    {
+        "processor": "Qualcomm APQ8009"
+    },
+    {
+        "processor": "HiSilicon Kirin 935"
+    },
+    {
+        "processor": "Intel Atom x7 Z8700 (14 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 800"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 800 MSM8974"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 415 MSM8929"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 616 MSM8939"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801 8974-AC"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 616 8939"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200"
+    },
+    {
+        "processor": "MediaTek MT8382"
+    },
+    {
+        "processor": "MediaTek MTK6592M"
+    },
+    {
+        "processor": "Intel Atom Z2560 (32 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200 8212"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 5433 (20 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 5433"
+    },
+    {
+        "processor": "Samsung Exynos 7 Octa 7580"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801 8974"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 615 5430"
+    },
+    {
+        "processor": "MediaTek MT6572W"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200 8210"
+    },
+    {
+        "processor": "Intel Atom Z3530 (22 nm)"
+    },
+    {
+        "processor": "MediaTek MT6572A"
+    },
+    {
+        "processor": "Intel Atom"
+    },
+    {
+        "processor": "Intel Atom Z3580 (22 nm)"
+    },
+    {
+        "processor": "MediaTek MT6752M"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 615 MSM8939"
+    },
+    {
+        "processor": "MediaTek MTK6752"
+    },
+    {
+        "processor": "MediaTek MT6732"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200 8610"
+    },
+    {
+        "processor": "Apple S1P (28 nm)"
+    },
+    {
+        "processor": "Intel Atom Z2560"
+    },
+    {
+        "processor": "HiSilicon Kirin 620"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 MSM8926"
+    },
+    {
+        "processor": "MediaTek MT6732M"
+    },
+    {
+        "processor": "Marvell Armada PXA1908"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8960 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 210 MT8127"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200 8909"
+    },
+    {
+        "processor": "MediaTek MT8165"
+    },
+    {
+        "processor": "Intel Atom Z2520 (32 nm)"
+    },
+    {
+        "processor": "Intel Atom Z3560"
+    },
+    {
+        "processor": "MediaTek MT6795"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 808 MSM8992 (20 nm)"
+    },
+    {
+        "processor": "Broadcom BCM23550"
+    },
+    {
+        "processor": "MediaTek MT6582VX"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 MSM8928"
+    },
+    {
+        "processor": "MediaTek MT6572M (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT8732"
+    },
+    {
+        "processor": "Intel Atom Z3775"
+    },
+    {
+        "processor": "Intel Atom Z3580"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 MSM8960"
+    },
+    {
+        "processor": "HiSilicon Kirin 925"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200 MSM8210 (28 nm)"
+    },
+    {
+        "processor": "Marvell PXA1088"
+    },
+    {
+        "processor": "Samsung Exynos 5 Octa 5430"
+    },
+    {
+        "processor": "MediaTek MT6571 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801 MSM8974-AA (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 805 APQ8084"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Pro APQ8064"
+    },
+    {
+        "processor": "MediaTek MT6589T"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8960"
+    },
+    {
+        "processor": "Apple A7"
+    },
+    {
+        "processor": "Apple A8X"
+    },
+    {
+        "processor": "NVIDIA Tegra K1 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6591"
+    },
+    {
+        "processor": "MediaTek MT6582AW"
+    },
+    {
+        "processor": "Intel Atom Z3745"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 MSM8625Q"
+    },
+    {
+        "processor": "Qualcomm QSC6155"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 805"
+    },
+    {
+        "processor": "MediaTek MT6592T"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801 8974-AB"
+    },
+    {
+        "processor": "Qualcomm QSC6085"
+    },
+    {
+        "processor": "MediaTek MT6235"
+    },
+    {
+        "processor": "MediaTek MT6276"
+    },
+    {
+        "processor": "Apple A8"
+    },
+    {
+        "processor": "Intel Atom Z3735G (22 nm)"
+    },
+    {
+        "processor": "Qulacomm Snapdragon 600 APQ8064T"
+    },
+    {
+        "processor": "MediaTek MT8392+"
+    },
+    {
+        "processor": "MediaTek MT6595M"
+    },
+    {
+        "processor": "MediaTek MT6589"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 8026"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 8226"
+    },
+    {
+        "processor": "Intel Atom Z3745 (22 nm)"
+    },
+    {
+        "processor": "MediaTek MT6589M"
+    },
+    {
+        "processor": "Rockchip RK3288"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 MSM8228 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 5 Octa 5433"
+    },
+    {
+        "processor": "NVIDIA Tegra K1 T124 (32 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7625A (45 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801 8974-AC (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 800 8274"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 8228"
+    },
+    {
+        "processor": "MediaTek MT6572MW"
+    },
+    {
+        "processor": "Samsung Exynos 4 Quad 4415"
+    },
+    {
+        "processor": "Samsung Exynos 3 Quad 3470"
+    },
+    {
+        "processor": "Qualcomm QSC 6155"
+    },
+    {
+        "processor": "Spreadtrum SC6815"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801 MSM8974-AC (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 800 8974"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 805 APQ8084 (28 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 920 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 5 Octa 5420"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 800 8974-AB"
+    },
+    {
+        "processor": "ST Ericsson DA6809-L"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7225A (45 nm)"
+    },
+    {
+        "processor": "Intel XMM6230"
+    },
+    {
+        "processor": "Intel Atom Z3480"
+    },
+    {
+        "processor": "MediaTek MTK6582"
+    },
+    {
+        "processor": "Broadcom BCM21663"
+    },
+    {
+        "processor": "QSC 6155"
+    },
+    {
+        "processor": "Nvidia Tegra K1 T124 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm QSC6055"
+    },
+    {
+        "processor": "Intel Atom Z3795"
+    },
+    {
+        "processor": "HiSilicon Kirin 910T"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Play MSM8225Q"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 MSM8926 (28 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 5 Hexa"
+    },
+    {
+        "processor": "MediaTek MTK6260M"
+    },
+    {
+        "processor": "MediaTek MTK6260A"
+    },
+    {
+        "processor": "Broadcomm BCM21664T"
+    },
+    {
+        "processor": "MediaTek MT8121"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 800 8974-AA"
+    },
+    {
+        "processor": "MediaTek MT6592VW"
+    },
+    {
+        "processor": "MediaTek MT6575"
+    },
+    {
+        "processor": "MediaTek MTK6592"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801 8974-AA (28 nm)"
+    },
+    {
+        "processor": "Allwinner Quad-Core A31s"
+    },
+    {
+        "processor": "MediaTek MT6572AW"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7225A"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 600"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 8230"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 MSM8225"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 801 8074"
+    },
+    {
+        "processor": "MediaTek 6582"
+    },
+    {
+        "processor": "MediaTek 6582M"
+    },
+    {
+        "processor": "Intel Atom Z3795 (22 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Play MSM8225 (45 nm)"
+    },
+    {
+        "processor": "HiSilicon Kirin 910"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7225AB (45 nm)"
+    },
+    {
+        "processor": "MediaTek MT6577"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8930"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Play MSM8625"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2 MSM8655"
+    },
+    {
+        "processor": "Marvell PXA986"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8230"
+    },
+    {
+        "processor": "Intel Atom Z2580"
+    },
+    {
+        "processor": "Samsung Exynos 5 Octa 5410 (28 nm)"
+    },
+    {
+        "processor": "Intel Atom Z3740 (22 nm)"
+    },
+    {
+        "processor": "Intel Atom Z3770 (22 nm)"
+    },
+    {
+        "processor": "Intel Core i5 4202Y (22 nm)"
+    },
+    {
+        "processor": "MediaTek MT8111"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4"
+    },
+    {
+        "processor": "Intel Atom Z3740D (22 nm)"
+    },
+    {
+        "processor": "Intel Atom Z2480 (32 nm)"
+    },
+    {
+        "processor": "Intel Atom Z2460 (32 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200 MSM8225Q (45 nm)"
+    },
+    {
+        "processor": "NovaThor U8500"
+    },
+    {
+        "processor": "Rockchip RK3188"
+    },
+    {
+        "processor": "MediaTek MT8377 (40 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Play MSM8225"
+    },
+    {
+        "processor": "MediaTek MTK6589W-M"
+    },
+    {
+        "processor": "Nvidia Tegra 3"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8227"
+    },
+    {
+        "processor": "MediaTek 8389"
+    },
+    {
+        "processor": "MediaTek MT6577T"
+    },
+    {
+        "processor": "Xiaolong S4 Pro"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7227A"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8630"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8930 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 600 APQ8064T"
+    },
+    {
+        "processor": "Broadcom"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 8930"
+    },
+    {
+        "processor": "HiSilicon"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 800 8074"
+    },
+    {
+        "processor": "Intel Core i5 4200U (22 nm)"
+    },
+    {
+        "processor": "NVIDIA Tegra 4 T114 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT6517"
+    },
+    {
+        "processor": "MediaTek MTK6572"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Pro MSM8960T"
+    },
+    {
+        "processor": "Apple A7 (28 nm)"
+    },
+    {
+        "processor": "Apple A6"
+    },
+    {
+        "processor": "Intel Core i3 4020Y (22 nm)"
+    },
+    {
+        "processor": "Rockchip RK3066"
+    },
+    {
+        "processor": "MediaTek MT8389"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 MSM8930 (28 nm)"
+    },
+    {
+        "processor": "MediaTek MT8125"
+    },
+    {
+        "processor": "MediaTek MT6575M"
+    },
+    {
+        "processor": "MediaTek 6517A"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Pro MSM8960"
+    },
+    {
+        "processor": "Motorola X8 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200 MSM8225Q"
+    },
+    {
+        "processor": "Broadcom BCM21664"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 8930-AA"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 400 MSM8930"
+    },
+    {
+        "processor": "Intel Core i5 4200U"
+    },
+    {
+        "processor": "Intel Atom Z2760 (32 nm)"
+    },
+    {
+        "processor": "NVIDIA Tegra 4"
+    },
+    {
+        "processor": "MediaTek MT6515"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7227A (45 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1"
+    },
+    {
+        "processor": "Huawei K3V2E"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 200 8225Q (45 nm)"
+    },
+    {
+        "processor": "MediaTek MT6515M"
+    },
+    {
+        "processor": "Samsung Exynos 4 Dual 4212"
+    },
+    {
+        "processor": "NVIDIA Tegra 4 T40X T114 (28 nm)"
+    },
+    {
+        "processor": "Rockchip RK2918"
+    },
+    {
+        "processor": "Qualcomm Snapdragon MSM7626A"
+    },
+    {
+        "processor": "Broadcom BCM28155"
+    },
+    {
+        "processor": "Broadcom BCM21654/G"
+    },
+    {
+        "processor": "Qualcomm Snapdragon 600 8974"
+    },
+    {
+        "processor": "MediaTek MT6577A"
+    },
+    {
+        "processor": "Spreadtrum SC6820"
+    },
+    {
+        "processor": "Intel Atom Z2420 (32 nm)"
+    },
+    {
+        "processor": "Huawei K3V2"
+    },
+    {
+        "processor": "MediaTek MT8317T"
+    },
+    {
+        "processor": "Samsung Exynos 4 Quad 4412"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2 MSM8655 (45 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Play MSM8230"
+    },
+    {
+        "processor": "NovaThor U8420"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus"
+    },
+    {
+        "processor": "Broadcom BCM21654"
+    },
+    {
+        "processor": "ST-Ericsson U8420"
+    },
+    {
+        "processor": "TI OMAP4460"
+    },
+    {
+        "processor": "Hi-Silicon K3V2 + Balong V7R1"
+    },
+    {
+        "processor": "Hi-Silicon K3V2 + Intel XMM6260"
+    },
+    {
+        "processor": "Rockchip RK2928"
+    },
+    {
+        "processor": "MediaTek MT8317 (40 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Pro APQ8064 (28 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7627A"
+    },
+    {
+        "processor": "STE PNX6809L"
+    },
+    {
+        "processor": "Samsung Exynos 4 Quad 4412 (32 nm)"
+    },
+    {
+        "processor": "MediaTek MT6599"
+    },
+    {
+        "processor": "TI OMAP4470"
+    },
+    {
+        "processor": "Samsung Exynos 5 Dual 5250 (32 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S3 MSM8260"
+    },
+    {
+        "processor": "Apple A5"
+    },
+    {
+        "processor": "Apple A6X"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7227"
+    },
+    {
+        "processor": "STE U8420"
+    },
+    {
+        "processor": "Intel Core i3"
+    },
+    {
+        "processor": "TI OMAP4430"
+    },
+    {
+        "processor": "NVIDIA Tegra 3 AP37"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8627"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Lite MSM8960"
+    },
+    {
+        "processor": "Apple A6 (32 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S3"
+    },
+    {
+        "processor": "Intel Core i5"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus APQ8060A"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8260A"
+    },
+    {
+        "processor": "NVIDIA Tegra 3 T30L"
+    },
+    {
+        "processor": "Broadcom BCM21553"
+    },
+    {
+        "processor": "NVIDIA Tegra 2"
+    },
+    {
+        "processor": "NVIDIA Tegra 3 T30S"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Pro MSM8960A"
+    },
+    {
+        "processor": "NVIDIA Tegra 3 (40 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 4 Quad 4410"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2 MSM8255T (45 nm)"
+    },
+    {
+        "processor": "MediaTek MT6252C"
+    },
+    {
+        "processor": "Intel Core i5 3317U"
+    },
+    {
+        "processor": "NVIDIA Tegra 3 T30"
+    },
+    {
+        "processor": "MediaTek MT6573 (65 nm)"
+    },
+    {
+        "processor": "ST-Ericsson NovaThor U8500"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7227 (65 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2 MSM8255"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7627"
+    },
+    {
+        "processor": "Apple A5X"
+    },
+    {
+        "processor": "MediaTek MT6268"
+    },
+    {
+        "processor": "NVIDIA Tegra T30S"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7227A-1"
+    },
+    {
+        "processor": "ST Erricson NovaThor U8500"
+    },
+    {
+        "processor": "ST Erricson NovaThor U8500 (40 nm)"
+    },
+    {
+        "processor": "Qualcomm MSM7227T"
+    },
+    {
+        "processor": "MediaTek MT6573"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S3 MSM8660"
+    },
+    {
+        "processor": "Intel Atom Z670 (45 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S3 APQ8060"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2 APQ8055"
+    },
+    {
+        "processor": "Qualcomm MSM7627T"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 QSD8250"
+    },
+    {
+        "processor": "Qualcomm MSM7227 Turbo"
+    },
+    {
+        "processor": "TI OMAP4"
+    },
+    {
+        "processor": "Qualcomm MSM7227T-1"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2 MSM7230 (45 nm)"
+    },
+    {
+        "processor": "TI OMAP4430 (45 nm)"
+    },
+    {
+        "processor": "Samsung Exynos 4"
+    },
+    {
+        "processor": "Samsung Exynos 4 Dual 4210 (45 nm)"
+    },
+    {
+        "processor": "Qualcomm MSM7227-T"
+    },
+    {
+        "processor": "TI OMAP 4430"
+    },
+    {
+        "processor": "TI OMAP3430"
+    },
+    {
+        "processor": "NVIDIA Tegra T20"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S4 Plus MSM8227 (28 nm)"
+    },
+    {
+        "processor": "TI OMAP3620"
+    },
+    {
+        "processor": "Qualcomm ESC6240"
+    },
+    {
+        "processor": "Samsung Exynos 3"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7225"
+    },
+    {
+        "processor": "MediaTek MTK6268"
+    },
+    {
+        "processor": "MediaTek MT6516 (65 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7225 (65 nm)"
+    },
+    {
+        "processor": "Qualcomm MSM7627-2"
+    },
+    {
+        "processor": "Apple A5 S5L8940X (45 nm)"
+    },
+    {
+        "processor": "TI OMAP"
+    },
+    {
+        "processor": "Samsung Exynos 4 Dual 4210"
+    },
+    {
+        "processor": "Intel Atom N455 (45 nm)"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2 MSM7230"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 QSD8650"
+    },
+    {
+        "processor": "Apple A4"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S2 MSM7630"
+    },
+    {
+        "processor": "Qualcomm MSM8250"
+    },
+    {
+        "processor": "NVIDIA Tegra 250 T20 (Harmony)"
+    },
+    {
+        "processor": "TI OMAP3410"
+    },
+    {
+        "processor": "TI OMAP3630"
+    },
+    {
+        "processor": "Qualcomm MSM7200A"
+    },
+    {
+        "processor": "Qualcomm MSM7600"
+    },
+    {
+        "processor": "Qualcomm MSM7201A"
+    },
+    {
+        "processor": "TI OMAP850"
+    },
+    {
+        "processor": "Qualcomm Snapdragon S1 MSM7625 (65 nm)"
+    },
+    {
+        "processor": "Qualcomm MSM7501A"
+    },
+    {
+        "processor": "Qualcomm ESM7206A"
+    },
+    {
+        "processor": "Qualcomm MSM7500A"
+    },
+    {
+        "processor": "Qualcomm MSM7201"
+    },
+    {
+        "processor": "TI OMAP V1030"
+    },
+    {
+        "processor": "Qualcomm MSM7200"
+    },
+    {
+        "processor": "Qualcomm MSM7500"
+    },
+    {
+        "processor": "Samsung"
+    }
+]

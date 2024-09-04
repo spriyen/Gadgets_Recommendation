@@ -1,0 +1,3 @@
+
+Tech Specs:
+'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImN1c19RQ0MzcDNJdmt4OVpSYSIsIm1vZXNpZlByaWNpbmdJZCI6InByaWNlXzFNUXF5dkJESWxQbVVQcE1SWUVWdnlLZSIsImlhdCI6MTcxNjk5MzYyMH0.HIowPgZcgGQNs_21SKU1yOJsMF0WEM3GzjH_yXEFHs4' // Add your Bearer Token here
